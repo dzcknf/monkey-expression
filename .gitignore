@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+venv/
+*.pth
+images/
+
+triggers/*
+!triggers/expression1.jpg
+!triggers/expression2.jpg
+!triggers/expression3.jpg
+!triggers/neutral.jpg
+
+.DS_Store
